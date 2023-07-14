@@ -1,4 +1,4 @@
 # AgendamentoVoo2023
-Um sistema de Agendamento de Voo feito com Python3 utilizando de Dados fictícios.
+Um sistema de Agendamento de Voo feito com Python3 utilizando de Dados fictícios para o Professor Felipe G.Santos.
 
-Vidro Explicativo: https://youtu.be/ec41skD0Zds
+Video Explicativo: https://youtu.be/ec41skD0Zds
